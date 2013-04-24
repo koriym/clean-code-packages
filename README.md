@@ -1,4 +1,11 @@
-clean-code-packages
+PHP Clean Code Packages
 ===================
 
-PHP clean code packages
+コンポーネントとしての利用が容易で、コーディングのお手本になるような高品質のPHPパッケージを集めました。
+
+How to dowonload all libs
+
+```
+$ git submodule update --init
+```
+
