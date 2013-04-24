@@ -7,5 +7,7 @@ How to dowonload all libs
 
 ```
 $ git submodule update --init
+$ cd auraphp
+$ php update.php
 ```
 
