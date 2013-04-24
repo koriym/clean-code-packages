@@ -1,0 +1,27 @@
+[submodule "assetic"]
+	path = assetic
+	url = git://github.com/kriswallsmith/assetic.git
+[submodule "auraphp"]
+	path = auraphp
+	url = git://github.com/auraphp/system.git
+[submodule "composer"]
+	path = composer
+	url = git://github.com/composer/composer.git
+[submodule "doctrine"]
+	path = doctrine
+	url = git://github.com/doctrine/doctrine2.git
+[submodule "symfony"]
+	path = symfony
+	url = git://github.com/symfony/symfony.git
+[submodule "zf2"]
+	path = zf2
+	url = git://github.com/zendframework/zf2.git
+[submodule "phpunit"]
+	path = phpunit
+	url = https://github.com/sebastianbergmann/phpunit
+[submodule "behat"]
+	path = behat
+	url = git://github.com/Behat/Behat.git
+[submodule "guzzle"]
+	path = guzzle
+	url = git://github.com/guzzle/guzzle.git
